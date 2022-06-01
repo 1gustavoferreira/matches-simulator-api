@@ -6,14 +6,14 @@
       "image": "TODO"
     },
     "Commander":{
-      "name": "https://cdn.awsli.com.br/1000x1000/1677/1677907/produto/83123394/ce4b2fd5a5.jpg",
+      "name": "Brasil",
       "force": 5,
-      "image": "TODO"
+      "image": "https://cdn.awsli.com.br/1000x1000/1677/1677907/produto/83123394/ce4b2fd5a5.jpg"
     }
      "Visitor":{
-      "name": "https://static.significados.com.br/foto/argentina.jpg",
+      "name": "Argentina",
       "force": 5,
-      "image": "TODO"
+      "image": "https://static.significados.com.br/foto/argentina.jpg"
     }
    }
 ]

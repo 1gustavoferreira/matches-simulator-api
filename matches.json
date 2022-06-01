@@ -8,12 +8,46 @@
     "Commander":{
       "name": "Brasil",
       "force": 5,
-      "image": "https://cdn.awsli.com.br/1000x1000/1677/1677907/produto/83123394/ce4b2fd5a5.jpg"
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+     "Visitor":{
+      "name": "Argentina",
+      "force": 5,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
+   },
+  {
+   "description: ": "Cup Qualifiers 2022",
+    "locable": {
+    "name": "Olympic Stadium Hernando Siles",
+      "image": "TODO"
+    },
+    "Commander":{
+      "name": "Bolívia",
+      "force": 4,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
+    },
      "Visitor":{
       "name": "Argentina",
       "force": 5,
       "image": "https://static.significados.com.br/foto/argentina.jpg"
+    },
+    {
+   "description: ": "Cup Qualifiers 2022",
+    "locable": {
+    "name": "Maracanã",
+      "image": "TODO"
+    },
+    "Commander":{
+      "name": "Brasil",
+      "force": 5,
+      "image": "https://cdn.awsli.com.br/1000x1000/1677/1677907/produto/83123394/ce4b2fd5a5.jpg"
+    },
+     "Visitor":{
+      "name": "Colombia",
+      "force": 5,
+      "image": "https://static.significados.com.br/foto/argentina.jpg"
     }
+   }
    }
 ]

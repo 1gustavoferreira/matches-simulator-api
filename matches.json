@@ -3,7 +3,7 @@
    "description: ": "Cup Qualifiers 2022",
     "locable": {
     "name": "Maracanã",
-      "image": "TODO"
+      "image": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
     },
     "Commander":{
       "name": "Brasil",
@@ -20,7 +20,7 @@
    "description: ": "Cup Qualifiers 2022",
     "locable": {
     "name": "Olympic Stadium Hernando Siles",
-      "image": "TODO"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hernando_Siles_Stadium_-_La_Paz.jpg"
     },
     "Commander":{
       "name": "Bolívia",
@@ -36,7 +36,7 @@
    "description: ": "Cup Qualifiers 2022",
     "locable": {
     "name": "Maracanã",
-      "image": "TODO"
+      "image": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
     },
     "Commander":{
       "name": "Brasil",
